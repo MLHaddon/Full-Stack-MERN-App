@@ -1,0 +1,11 @@
+{
+  "name": "one-page-site",
+  "version": "1.0.0",
+  "description": "One-Page-Layout for a portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "MLH",
+  "license": "ISC"
+}
